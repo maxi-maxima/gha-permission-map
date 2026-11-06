@@ -1,5 +1,9 @@
 # 更新日志
 
+## 未发布
+
+- 将 CI 升级到当前基于 Node 24 的 checkout 和 setup-node Actions。
+
 ## 0.1.0
 
 - 发布 `gha-permission-map`，支持本地映射 workflow token 权限。

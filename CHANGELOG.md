@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Upgrade CI to the current Node 24-based checkout and setup-node actions.
+
 ## 0.1.0
 
 - Launch `gha-permission-map` with local workflow permission mapping.
